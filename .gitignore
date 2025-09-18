@@ -1,0 +1,14 @@
+# IDE / OS
+.vscode/
+*.swp
+.DS_Store
+
+# build
+build/
+bin/
+*.o
+*.obj
+
+# libs / secrets
+*.key
+.env
